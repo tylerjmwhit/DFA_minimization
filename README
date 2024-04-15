@@ -1,0 +1,7 @@
+##Tyler Whitmarsh
+##Jeremy Pearson
+To run code type python dfaMinimization in the terminal
+There are no input parameters for the script. 
+The script comes preloaded with three different DFA's built in main 
+If you want to implement more follow the structure of the previous DFA's
+We used timeit to test the run times of the functions
